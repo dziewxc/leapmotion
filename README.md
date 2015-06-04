@@ -1,2 +1,2 @@
 # leapmotion
-Leap Motion Ontology
+Leap Motion
